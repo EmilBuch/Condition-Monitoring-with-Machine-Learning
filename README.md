@@ -1,5 +1,4 @@
 # Condition-Monitoring-with-Machine-Learning
 This work is from my master thesis: Condition Monitoring with Machine Learning: A Data-Driven Framework for Quantifying Wind Turbine Energy Loss.
 
-[data-pipeline.pdf](https://github.com/user-attachments/files/20836137/data-pipeline.pdf)
-
+![data-pipeline-1](https://github.com/user-attachments/assets/77e91d91-e595-4559-b885-c20199d709bd)
