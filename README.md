@@ -44,10 +44,12 @@ The extensive framework implemented to accommodate the data cleaning and identif
 
 <img src="https://github.com/user-attachments/assets/77e91d91-e595-4559-b885-c20199d709bd" alt="Alt Text" style="width:40%; height:auto;">
 
-
+The Predictive Power Score (PPS) is implemented to work in a temporal setting and utilized as a direct measure of the predictive quality of the data on the power before and after NB-filters. The PPS gives a direct insight into the effectiveness of the filtering applied to the data and allows for the selection of healthy model states. Such an example can be observed on:
 <img src="https://github.com/user-attachments/assets/fb70ffbf-7b5a-4ddf-b0ac-5ad9469a919b" alt="Alt Text" style="width:50%; height:auto;">
 
-
+where the PPS is not only improved across the operating history of the turbine, but further history can potentially be utilized in the following quantification of energy loss assessment.
 
 <img src="https://github.com/user-attachments/assets/69ed50f8-e0ff-457a-8a54-4c4c8c28da38" alt="Alt Text" style="width:50%; height:auto;">
+
+
 
