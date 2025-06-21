@@ -34,12 +34,13 @@ impacts from turbine downtime.
 
 
 ## The Problem
-The end goal of this research is to quantify the potential energy loss resulting from performance degradation over time. To asses such a state, it is necessary to establish a healthy model state, representative of the turbines expected output. However, identifying such a state is a non-trivial task, even for a single turbine, if event logs are not provided as part of the data, and even sometimes with provided logs. An extensive framework to identify said periods of healthy model states and clean the data of anomalies is therefore a necessary step for further research.
+The end goal of this research is to quantify the potential energy loss resulting from performance degradation over time. To asses such a state, it is necessary to establish a healthy model state, representative of the turbines expected output. However, identifying such a state is a non-trivial task, even for a single turbine, if event logs are not provided as part of the data, and even sometimes with provided logs. An extensive framework to identify said periods of healthy model states and clean the data of anomalies is, therefore, a necessary step for further research.
 
-An example of anomaly behavior can be observed on the following figure of the power curve:
+An example of anomalous behavior can be observed in the following figure of the power curve:
 
 <img src="https://github.com/user-attachments/assets/d020115d-30d1-4b4c-9801-eed91c333142" alt="Alt Text" style="width:50%; height:auto;">
 
+The extensive framework implemented to accommodate the data cleaning and identifying healthy states can be observed:
 
 <img src="https://github.com/user-attachments/assets/77e91d91-e595-4559-b885-c20199d709bd" alt="Alt Text" style="width:40%; height:auto;">
 
