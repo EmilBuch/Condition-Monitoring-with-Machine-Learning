@@ -3,6 +3,11 @@ This work is from my master thesis: Condition Monitoring with Machine Learning: 
 
 #### Paper available at: https://arxiv.org/abs/2506.13012
 
+## Authors
+
+- [@EmilBuch](https://www.github.com/EmilBuch)
+- [@kent1325](https://github.com/kent1325)
+
 ## Abstract
 Wind energy significantly contributes to the global
 shift towards renewable energy, yet operational challenges, such
