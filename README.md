@@ -33,15 +33,20 @@ in reducing maintenance expenditures and mitigating economic
 impacts from turbine downtime.
 
 
-<img src="https://github.com/user-attachments/assets/d020115d-30d1-4b4c-9801-eed91c333142" alt="Alt Text" style="width:40%; height:auto;">
+## The Problem
+The end goal of this research is to quantify the potential energy loss resulting from performance degradation over time. To asses such a state, it is necessary to establish a healthy model state, representative of the turbines expected output. However, identifying such a state is a non-trivial task, even for a single turbine, if event logs are not provided as part of the data, and even sometimes with provided logs. An extensive framework to identify said periods of healthy model states and clean the data of anomalies is therefore a necessary step for further research.
+
+An example of anomaly behavior can be observed on the following figure of the power curve:
+
+<img src="https://github.com/user-attachments/assets/d020115d-30d1-4b4c-9801-eed91c333142" alt="Alt Text" style="width:50%; height:auto;">
 
 
-<img src="https://github.com/user-attachments/assets/77e91d91-e595-4559-b885-c20199d709bd" alt="Alt Text" style="width:30%; height:auto;">
+<img src="https://github.com/user-attachments/assets/77e91d91-e595-4559-b885-c20199d709bd" alt="Alt Text" style="width:40%; height:auto;">
 
 
-<img src="https://github.com/user-attachments/assets/fb70ffbf-7b5a-4ddf-b0ac-5ad9469a919b" alt="Alt Text" style="width:40%; height:auto;">
+<img src="https://github.com/user-attachments/assets/fb70ffbf-7b5a-4ddf-b0ac-5ad9469a919b" alt="Alt Text" style="width:50%; height:auto;">
 
 
 
-<img src="https://github.com/user-attachments/assets/69ed50f8-e0ff-457a-8a54-4c4c8c28da38" alt="Alt Text" style="width:40%; height:auto;">
+<img src="https://github.com/user-attachments/assets/69ed50f8-e0ff-457a-8a54-4c4c8c28da38" alt="Alt Text" style="width:50%; height:auto;">
 
