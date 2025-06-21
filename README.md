@@ -1,6 +1,8 @@
 # Condition-Monitoring-with-Machine-Learning
 This work is from my master thesis: Condition Monitoring with Machine Learning: A Data-Driven Framework for Quantifying Wind Turbine Energy Loss.
 
+#### Paper available at: https://arxiv.org/abs/2506.13012
+
 ## Abstract
 Wind energy significantly contributes to the global
 shift towards renewable energy, yet operational challenges, such
